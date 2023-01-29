@@ -13,7 +13,7 @@
         console.log('The fullname is:', fullName);
 
 // 5 - Create a variable called `luckyNumber` and assign it the value of your lucky number.
-        let luckyNumber = 14;
+        let luckyNumber = 8;
 
 // 6 - Console log this sentence, adding in the variables you created above: 
 // 'My name is (full name), and I think (lucky number) is a winner!'.
@@ -60,7 +60,7 @@
 // console logs "I have enough pets" if the value of `pets` is equal to the value of `allowedPets`,
 // and console logs "Oh no, I have too many pets!"
 // if the value of `pets` is greater than the value of `allowedPets`.
-        if (pets< allowedPets) {
+        if (pets < allowedPets) {
             console.log("I can have more pets!");
         }
         else if (pets === allowedPets) {
